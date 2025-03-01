@@ -1,3 +1,4 @@
 # ML--Practice
 Some practical exercises about ML
-## Email spam using SVM
+## Email spam - SVM
+## Mnist - CNN
